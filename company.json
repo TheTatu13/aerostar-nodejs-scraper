@@ -1,0 +1,91 @@
+{
+  "validatedAt": "2026-09-22T20:30:06.674Z",
+  "source": "ANAF",
+  "brand": "AEROSTAR",
+  "anaf": {
+    "cui": 950531,
+    "name": "AEROSTAR SA",
+    "address": "JUD. BACĂU, MUN. BACĂU, STR. CONDORILOR, NR.9",
+    "registrationNumber": "J04/1137/1991",
+    "phone": "0234575070",
+    "fax": "0234572023",
+    "postalCode": "",
+    "caenCode": "3031",
+    "iban": "",
+    "registrationState": "INREGISTRAT din data 07.12.1992",
+    "registrationDate": "1992-12-07",
+    "fiscalAuthority": "Direcţia Generală de Administrare a Marilor Contribuabili",
+    "ownershipForm": "PROPR.PRIVATA-CAPITAL PRIVAT AUTOHTON",
+    "organizationForm": "PERSOANA JURIDICA",
+    "legalForm": "SOCIETATE COMERCIALĂ PE ACŢIUNI",
+    "vatRegistered": true,
+    "vatPeriods": [
+      {
+        "start": "1993-07-01",
+        "end": null,
+        "yearStart": "",
+        "message": ""
+      }
+    ],
+    "cashBasisVat": false,
+    "cashBasisVatStart": null,
+    "cashBasisVatEnd": null,
+    "inactive": false,
+    "inactiveSince": null,
+    "reactivatedSince": null,
+    "splitVat": false,
+    "eFacturaRegistered": true,
+    "headquartersAddress": {
+      "street": "Str. Condorilor",
+      "number": "9",
+      "locality": "Mun. Bacău",
+      "county": "BACĂU",
+      "country": "",
+      "postalCode": "600302"
+    },
+    "fiscalAddress": {
+      "street": "",
+      "number": "",
+      "locality": "",
+      "county": "",
+      "country": "",
+      "postalCode": ""
+    },
+    "administrators": [],
+    "authorizedCaenCodes": [],
+    "onrcStatus": 0,
+    "onrcStatusLabel": "Funcțiune"
+  },
+  "peviitor": {
+    "id": "950531",
+    "company": "AEROSTAR SA",
+    "brand": "AEROSTAR SA",
+    "status": "activ",
+    "location": [
+      "Municipiul Bacău"
+    ],
+    "website": [
+      "https://www.aerostar.com"
+    ],
+    "lastScraped": "2026-08-07",
+    "scraperFile": "inviitor-ro-nodejs-scraper",
+    "address": [
+      "Municipiul Bacău, Bacău"
+    ],
+    "anafData": [
+      "{\"cif\":950531,\"cui\":950531,\"denumire\":\"AEROSTAR SA\",\"company\":\"AEROSTAR SA\",\"brand\":\"AEROSTAR SA\",\"statusImpozit\":\"activ\",\"adresa\":\"Municipiul Bacău, Bacău\",\"localitate\":\"Municipiul Bacău\",\"website\":\"\"}"
+    ],
+    "existingJobsCount": [
+      0
+    ],
+    "_version_": 1872863112153006000,
+    "_root_": "950531"
+  },
+  "summary": {
+    "company": "AEROSTAR SA",
+    "cif": "950531",
+    "active": true,
+    "inactiveSince": null,
+    "address": "JUD. BACĂU, MUN. BACĂU, STR. CONDORILOR, NR.9"
+  }
+}

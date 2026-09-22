@@ -1,0 +1,17 @@
+{
+  "id": "950531",
+  "company": "AEROSTAR SA",
+  "brand": "AEROSTAR",
+  "status": "activ",
+  "location": [
+    "Bacau"
+  ],
+  "website": [
+    "https://www.aerostar.com"
+  ],
+  "career": [
+    "https://cariere.aerostar.ro/jobs"
+  ],
+  "scraperFile": "https://github.com/TheTatu13/aerostar-nodejs-scraper/actions/workflows/scrape.yml",
+  "ownJobUrlPrefix": "https://cariere.aerostar.ro/jobs/"
+}

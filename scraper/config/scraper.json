@@ -1,0 +1,20 @@
+{
+  "userAgent": "job_seeker_ro_spider",
+  "requestTimeoutMs": 10000,
+  "pageDelayMs": 1000,
+  "staleJobDeletion": false,
+  "manageCompany": true,
+  "defaultLocation": ["Bacau"],
+  "defaultWorkmode": "on-site",
+  "ownJobUrlPrefix": "https://cariere.aerostar.ro/jobs/",
+  "sources": {
+    "sitemap": "",
+    "listing": "https://cariere.aerostar.ro/jobs",
+    "jobArchive": "https://cariere.aerostar.ro/jobs/"
+  },
+  "selectors": {
+    "jobArticle": ["div.layout-card_layout_card__f6TgL", "[class*='job']", ".vacancy, .position, .listing-item"],
+    "jobTitle": ["p", "h1, h2, h3, h4", "[itemprop='title'], [aria-label]", "a"],
+    "jobMeta": ["", "p, .meta, [class*='deadline']"]
+  }
+}
