@@ -12,9 +12,9 @@
 | Careers | [https://cariere.aerostar.ro/jobs](https://cariere.aerostar.ro/jobs) |
 | Last Scraped | 2026-09-25 |
 
-## Current Job Listings (29)
+## Current Job Listings (31)
 
-_Generated: 2026-09-25T20:16:00.961Z_
+_Generated: 2026-09-25T21:14:26.989Z_
 
 ### MECANIC AVIAȚIE
 
@@ -191,6 +191,12 @@ _Generated: 2026-09-25T20:16:00.961Z_
 - **Location:** România
 - **Status:** scraped
 
+### INGINER MECANIC
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3166487](https://mediere.anofm.ro/app/module/mediere/job/3166487)
+- **Location:** România
+- **Status:** scraped
+
 ### INGINER AVIATIE
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3166481](https://mediere.anofm.ro/app/module/mediere/job/3166481)
@@ -206,5 +212,11 @@ _Generated: 2026-09-25T20:16:00.961Z_
 ### ELECTROMECANIC
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3166470](https://mediere.anofm.ro/app/module/mediere/job/3166470)
+- **Location:** România
+- **Status:** scraped
+
+### TINICHIGIU STRUCTURIST DE AVIATIE
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3166428](https://mediere.anofm.ro/app/module/mediere/job/3166428)
 - **Location:** România
 - **Status:** scraped
