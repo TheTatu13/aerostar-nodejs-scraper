@@ -14,7 +14,7 @@
 
 ## Current Job Listings (31)
 
-_Generated: 2026-09-25T11:21:43.868Z_
+_Generated: 2026-09-25T19:48:26.666Z_
 
 ### MECANIC AVIAȚIE
 
