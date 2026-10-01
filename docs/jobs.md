@@ -10,11 +10,11 @@
 | Location | JUD. BACĂU, MUN. BACĂU, STR. CONDORILOR, NR.9 |
 | Website | [https://www.aerostar.com](https://www.aerostar.com) |
 | Careers | [https://cariere.aerostar.ro/jobs](https://cariere.aerostar.ro/jobs) |
-| Last Scraped | 2026-09-30 |
+| Last Scraped | 2026-10-01 |
 
-## Current Job Listings (29)
+## Current Job Listings (33)
 
-_Generated: 2026-09-30T12:04:35.138Z_
+_Generated: 2026-10-01T12:37:54.909Z_
 
 ### MECANIC AVIAȚIE
 
@@ -61,6 +61,13 @@ _Generated: 2026-09-30T12:04:35.138Z_
 ### PRELUCRĂTOR PRIN AȘCHIERE
 
 - **URL:** [https://cariere.aerostar.ro/jobs/2601ecbe-bf33-4af7-a5d2-fe9ef9f7c47b](https://cariere.aerostar.ro/jobs/2601ecbe-bf33-4af7-a5d2-fe9ef9f7c47b)
+- **Work Mode:** on-site
+- **Location:** România
+- **Status:** scraped
+
+### ELECTRONIST
+
+- **URL:** [https://cariere.aerostar.ro/jobs/3ad855e1-136e-42a7-8053-184bece2e57e](https://cariere.aerostar.ro/jobs/3ad855e1-136e-42a7-8053-184bece2e57e)
 - **Work Mode:** on-site
 - **Location:** România
 - **Status:** scraped
@@ -114,6 +121,13 @@ _Generated: 2026-09-30T12:04:35.138Z_
 - **Location:** România
 - **Status:** scraped
 
+### INGINER ELECTRONIST
+
+- **URL:** [https://cariere.aerostar.ro/jobs/4fdc3a3c-2237-40b6-ada9-de7a2305e141](https://cariere.aerostar.ro/jobs/4fdc3a3c-2237-40b6-ada9-de7a2305e141)
+- **Work Mode:** on-site
+- **Location:** România
+- **Status:** scraped
+
 ### INGINER METALURG
 
 - **URL:** [https://cariere.aerostar.ro/jobs/9cf59402-0cee-43ef-841c-b37db4d7d6f7](https://cariere.aerostar.ro/jobs/9cf59402-0cee-43ef-841c-b37db4d7d6f7)
@@ -161,6 +175,12 @@ _Generated: 2026-09-30T12:04:35.138Z_
 - **Location:** România
 - **Status:** scraped
 
+### STRUNGAR UNIVERSAL
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3166681](https://mediere.anofm.ro/app/module/mediere/job/3166681)
+- **Location:** România
+- **Status:** scraped
+
 ### VOPSITOR INDUSTRIAL
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3166674](https://mediere.anofm.ro/app/module/mediere/job/3166674)
@@ -170,6 +190,12 @@ _Generated: 2026-09-30T12:04:35.138Z_
 ### OPERATOR LA MASINI-UNELTE CU COMANDA NUMERICA
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3166661](https://mediere.anofm.ro/app/module/mediere/job/3166661)
+- **Location:** România
+- **Status:** scraped
+
+### INGINER PRELUCRARI METALURGICE
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3166510](https://mediere.anofm.ro/app/module/mediere/job/3166510)
 - **Location:** România
 - **Status:** scraped
 
