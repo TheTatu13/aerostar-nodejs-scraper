@@ -10,11 +10,11 @@
 | Location | JUD. BACĂU, MUN. BACĂU, STR. CONDORILOR, NR.9 |
 | Website | [https://www.aerostar.com](https://www.aerostar.com) |
 | Careers | [https://cariere.aerostar.ro/jobs](https://cariere.aerostar.ro/jobs) |
-| Last Scraped | 2026-10-02 |
+| Last Scraped | 2026-10-03 |
 
-## Current Job Listings (33)
+## Current Job Listings (34)
 
-_Generated: 2026-10-02T12:02:09.212Z_
+_Generated: 2026-10-03T11:15:08.889Z_
 
 ### MECANIC AVIAȚIE
 
@@ -159,6 +159,13 @@ _Generated: 2026-10-02T12:02:09.212Z_
 ### ANALIST CUMPĂRĂRI
 
 - **URL:** [https://cariere.aerostar.ro/jobs/1e029591-4a8e-446d-a335-d3f38fb6124b](https://cariere.aerostar.ro/jobs/1e029591-4a8e-446d-a335-d3f38fb6124b)
+- **Work Mode:** on-site
+- **Location:** România
+- **Status:** scraped
+
+### SERVANT POMPIER
+
+- **URL:** [https://cariere.aerostar.ro/jobs/e73e815c-1ec2-40ac-8992-64ce2008014a](https://cariere.aerostar.ro/jobs/e73e815c-1ec2-40ac-8992-64ce2008014a)
 - **Work Mode:** on-site
 - **Location:** România
 - **Status:** scraped
