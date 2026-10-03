@@ -12,6 +12,6 @@
   "career": [
     "https://cariere.aerostar.ro/jobs"
   ],
-  "scraperFile": "https://github.com/TheTatu13/aerostar-nodejs-scraper/actions/workflows/scrape.yml",
+  "scraperFile": "https://github.com/peviitor-scrapers/aerostar-nodejs-scraper/actions/workflows/scrape.yml",
   "ownJobUrlPrefix": "https://cariere.aerostar.ro/jobs/"
 }
